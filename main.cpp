@@ -1,4 +1,4 @@
-// name: Alex Obermeyer
+// name: Alex Obermeyerr
 // filename:magicskware.cpp
 // description:This program runs a magic "skware" game.
 #include "magicskware.h"
